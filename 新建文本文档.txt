@@ -1,0 +1,4 @@
+ml project-CNN_2 是 训练模型的代码
+img_YCrCb 处理 图片形式的手势识别
+video_YCrCb 处理 视频形式的手势识别
+main  是 pyqt5 ，且加载了img_YCrCb、video_YCrCb  
